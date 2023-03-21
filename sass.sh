@@ -1,0 +1,1 @@
+sass --watch wp-src/wp-content/themes/SCSS_DIR/SCSS.scss:wp-src/wp-content/themes/CSS_DIR/CSS.scss --style compressed
