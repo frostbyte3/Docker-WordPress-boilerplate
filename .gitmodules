@@ -1,0 +1,3 @@
+[submodule "wp-src"]
+	path = wp-src
+	url = https://github.com/WordPress/WordPress.git
